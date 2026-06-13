@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Downloaded NLTK data (re-downloaded automatically on first run)
+nltk_data/
+
+# Local tool state
+.claude/
